@@ -53,5 +53,3 @@ else:
     print("You Win")
   elif choice == 1 and choice2 == 0:
     print("You Win")
-  else:
-    print("Type the invalid number, you got nothing you lose! ")
